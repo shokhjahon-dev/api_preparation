@@ -14,8 +14,8 @@ This Flutter project demonstrates the use of `dio`, `build_runner`, `retrofit`, 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/flutter-retrofit-example.git
-   cd flutter-retrofit-example
+   git clone https://github.com/shokhjahon-dev/api_preparation.git
+   cd api_preparation 
    ```
 
 2. **Install dependencies:**
@@ -34,4 +34,4 @@ This Flutter project demonstrates the use of `dio`, `build_runner`, `retrofit`, 
    ```
 
 
-BY SHOKHJAHON
+- BY SHOKHJAHON
