@@ -1,16 +1,37 @@
-# api_preparation
 
-A new Flutter project.
+# Flutter Retrofit Example
 
-## Getting Started
+This Flutter project demonstrates the use of `dio`, `build_runner`, `retrofit`, and `json_serializable` packages to make HTTP requests and handle JSON serialization.
 
-This project is a starting point for a Flutter application.
+## Installation and Running the Project
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/flutter-retrofit-example.git
+   cd flutter-retrofit-example
+   ```
+
+2. **Install dependencies:**
+   ```sh
+   flutter pub get
+   ```
+
+3. **Generate the necessary code:**
+   ```sh
+   flutter pub run build_runner build
+   ```
+
+4. **Run the app:**
+   ```sh
+   flutter run
+   ```
+
+
+BY SHOKHJAHON
